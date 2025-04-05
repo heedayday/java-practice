@@ -4,3 +4,5 @@
 
 * 초보자를 위한 Java 200제<br><br>
 ![32463719072 20221019135443](https://github.com/user-attachments/assets/8552ac93-9d7c-4b65-8e46-250c58549ab5)
+
+[자바와 정보처리기사 실기 관련 키워드 정리](https://blog.naver.com/blogdayday/223823461693)
